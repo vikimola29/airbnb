@@ -3,6 +3,7 @@ import img1 from "../assets/prague1.jpg"
 import img2 from "../assets/prague2.jpg"
 import img3 from "../assets/prague3.jpg"
 
+
 export default [
     {
         id: 1,
